@@ -1,0 +1,132 @@
+.banner {
+  background-image: url("../images/04_image1.png");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  height: 610px;
+  justify-content: center;
+}
+.welcome-text {
+  margin-top: 150px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.ajay {
+  left: 600px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.warning-text-column {
+  height: 150px;
+}
+.book {
+  padding-top: 30px;
+}
+.hello {
+  padding-top: 200px;
+  list-style: none;
+  padding-bottom: 30px;
+}
+.icon-style {
+  border-radius: 80px;
+  background-color: yellow;
+}
+.img-fluid {
+  border-radius: 0px;
+  height: 8px;
+}
+.banner2 {
+  background-image: url("../images/45_image-9.png");
+  background-position: center;
+  background-size: cover;
+  height: auto;
+}
+.device {
+  margin-top: 80px;
+  font-size: 50px;
+  color: white;
+  font-weight: 700;
+}
+.btn btn-warning {
+  text-align: center;
+}
+.the {
+  list-style: none;
+}
+.GPS {
+  background-color: antiquewhite;
+  font-weight: 600;
+}
+.card-text2 {
+  background-color: orange;
+  width: 80px;
+}
+.world {
+  padding-top: 50px;
+  justify-content: center;
+  color: orange;
+}
+.pepar {
+  font-weight: 700;
+}
+.banner4 {
+  background-image: url("../images/09_Bg-2-1.png");
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  align-items: center;
+}
+.banner6 {
+  background-image: url("../images/46_bg6-1-1.jpg");
+  height: 700px;
+  background-position: center;
+  background-size: cover;
+}
+.right {
+  background-color: blue;
+  border-radius: 80px;
+}
+.small {
+  color: black;
+  font-weight: 700;
+}
+.hii {
+  background-color: black;
+}
+.hii2 {
+  color: white;
+}
+.hld {
+  color: orangered;
+}
+.old {
+  padding-left: 80px;
+}
+.olds {
+  color: orange;
+  margin-left: 150px;
+}
+
+.banner7 {
+  background-image: url("../images/10_div3.png");
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: yellow;
+  height: 200px;
+}
+@media screen and (max-width: 1120px) {
+  .banner7 {
+    background-image: none;
+    background-color: yellow;
+    height: 200px;
+  }
+}
+.banner8{
+    background-color: black;
+    height: 400px;
+}
+.room{
+    list-style: none;
+}
