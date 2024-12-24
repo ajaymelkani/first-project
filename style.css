@@ -1,5 +1,5 @@
 .banner {
-  background-image: url("../images/04_image1.png");
+  background-image: url("https://dev242.kodesolution.com/arotech/wp-content/uploads/2024/11/image1.png");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
@@ -36,7 +36,7 @@
   height: 8px;
 }
 .banner2 {
-  background-image: url("../images/45_image-9.png");
+  background-image: url("https://dev242.kodesolution.com/arotech/wp-content/uploads/2024/11/image-9.png");
   background-position: center;
   background-size: cover;
   height: auto;
@@ -78,7 +78,7 @@
   align-items: center;
 }
 .banner6 {
-  background-image: url("../images/46_bg6-1-1.jpg");
+  background-image: url("https://dev242.kodesolution.com/arotech/wp-content/uploads/2023/01/bg6-1-1.jpg");
   height: 700px;
   background-position: center;
   background-size: cover;
@@ -109,7 +109,7 @@
 }
 
 .banner7 {
-  background-image: url("../images/10_div3.png");
+  background-image: url("https://dev242.kodesolution.com/arotech/wp-content/uploads/2024/10/div3.png");
   background-position: right;
   background-size: contain;
   background-repeat: no-repeat;
