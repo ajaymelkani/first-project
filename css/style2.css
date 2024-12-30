@@ -22,7 +22,8 @@
     font-weight: 700;
 }
 .left{
-    margin-left: 200px;
+    /* margin-left: 120px; */
+    text-align: center;
     color: orange;
     font-size: 20px;
     font-weight: 600px;
@@ -31,15 +32,17 @@
 
 }
 .left2{
-    margin-left: 150px;
+    /* margin-left: 150px; */
+    text-align: center;
     font-weight: 700px;
 }
 .banner2{
-    background-image: url('../images/15_bg11-550x550.jpg');
+    background-image: url('https://dev242.kodesolution.com/arotech/wp-content/uploads/2024/11/bg11.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
+    width: -webkit-fill-available;
     align-content: center;
 
 }
@@ -52,11 +55,34 @@
     font-weight: 600;
 }
 .me{
-    margin-left: 200px;
+    /* margin-left: 80px; */
+    text-align: center;
     font-weight: 800px;
 }
 .me2{
-    margin-left: 500px;
+    /* margin-left: 300px; */
+    text-align: center;
     color: orange;
     font-weight: 500px;
+}
+.room{
+    list-style: none;
+}
+
+/*pages3*/
+.banner3{
+    background-image: url('https://dev242.kodesolution.com/arotech/wp-content/uploads/2024/11/video-bg1.jpg');
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ajay6{
+    margin-top: 150px;
+    margin-left: 200px;
+    color: white;
+    font-weight: 900px;
+}
+.button{
+    margin-left: 200px;
 }
